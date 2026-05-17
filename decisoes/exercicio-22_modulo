@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    int numero, modulo;
+    printf("Digite um número: ");
+    scanf("%i", &numero);
+    modulo = numero * -1;
+    if (numero >= 0)
+      printf("O módulo de %i é %i.", numero, numero);
+    else
+      printf("O módulo de %i é %i.", numero, modulo);
+    return 0;
+}
