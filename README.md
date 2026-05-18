@@ -6,6 +6,8 @@ dump de exercícios de lógica da programação.
 
 - exercício 21 até o 40, decisões (if/else e switch, validações e certificações).
 
+- exercício 41 até o 60, repetições (for/while, cálculos iterativos, laços e padrões).
+
 - exercícios não numerados são extras e alguns são repetições de exercícios numerados.
 
 ## OBS:
