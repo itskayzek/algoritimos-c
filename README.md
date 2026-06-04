@@ -8,6 +8,8 @@ dump de exercícios de lógica da programação.
 
 - exercício 41 até o 60, repetições (for/while, cálculos iterativos, laços e padrões).
 
+- exercício 61 até o 75, vetores (manipulação de arrays, busca e ordenação).
+
 - exercícios não numerados são extras e alguns são repetições de exercícios numerados.
 
 ## OBS:
