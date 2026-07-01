@@ -10,6 +10,10 @@ dump de exercícios de lógica da programação.
 
 - exercício 61 até o 75, vetores (manipulação de arrays, busca e ordenação).
 
+- exercício 76 até o 90, strings (manipulação de texto e comparação de strings).
+
+- exercício 91 até o 100, matrizes (matrizes e lógica bidimensional).
+
 - exercícios não numerados são extras e alguns são repetições de exercícios numerados.
 
 ## OBS:
